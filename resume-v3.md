@@ -6,7 +6,7 @@
 * 年龄：28（1995/04/15）
 * 联系方式：18115160826
 * Email：397830271@qq.com
-* GitHub: [https://github.com/laquesino](https://github.com/laquesino)
+* GitHub: [https://github.com/cosate](https://github.com/cosate)
 
 
 ## 教育背景  
@@ -32,9 +32,9 @@
 
 
 **ZOOM platform部门 (2021/10 - )**
-1. 开发维护ZOOM私有通信协议(C/C++)
+1. 维护ZOOM私有通信协议(C/C++)
 	* 开发维护在tcp/udp之上的应用层协议
-	* 开发维护ZOOM的基础C++库
+	* 开发维护ZOOM的基础C++库：智能指针，定时器，线程和消息模型等组件
 2. 开发直播gateway项目(C/C++)
 	* 普通rtmp直播
 	* simulive模拟直播
